@@ -1,0 +1,38 @@
+navbar_entries:
+  - title: Sobre
+    url: about
+
+  - title: Blog
+    url: blog
+
+project_entries:
+  - title: Acertar el número
+    url: https://github.com/juanramonrueda/acertar-numero
+    desc: Juego en código Python para jugar a acertar el número
+    # highlight: WIP
+
+old_project_entries:
+  - title: Hyper-V
+    url: https://github.com/juanramonrueda/proyecto-hyper_v
+    desc: Proyecto relacionado con Hyper-V y Windows Deployment Services
+    highlight: NEW
+
+footer_entries:
+  - title: GitHub
+    url: https://github.com/juanramonrueda
+
+  - title: Twitter
+    url: https://twitter.com/juanrarueda
+
+  - title: feed
+    url: feed.xml
+
+misc_entries:
+  - title: moonwalk on the Internet
+    url: false
+    entries:
+      - title: this list is scalable and can be nested
+        url: false
+        entries:
+          - title: this is nested inside a nested list
+            url: false
